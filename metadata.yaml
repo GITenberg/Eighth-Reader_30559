@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1982
     wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30559#Eighth-Reader
 gutenberg_issued: '2009-11-28'
 gutenberg_type: Text
 identifiers:
